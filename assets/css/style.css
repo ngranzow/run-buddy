@@ -209,6 +209,19 @@ h3 {
     line-height: 1.5;
     color: #024e76;
 }
+
+.step-img {
+    flex: 1 12%;
+    margin-right: 20px;
+}
+
+.step-img img{
+    max-width: 100%;
+}
+
+.step-text {
+    flex: 12;
+}
 /* What You Do Style End */
 
 /* Trainers Style Start */
